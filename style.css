@@ -4,3 +4,11 @@ html {
     color: #eee;
     font-family: sans-serif;
 }
+
+.yellow {
+    color: yellow;
+}
+
+#times {
+    font-family: 'Times New Roman', Times, serif;
+}
